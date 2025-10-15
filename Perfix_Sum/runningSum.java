@@ -1,3 +1,4 @@
+package Perfix_Sum;
 // Running Sum of 1D Array  LeetCode #1480 | Easy
 /*Given an array nums,
 return the running sum of nums.

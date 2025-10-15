@@ -1,3 +1,4 @@
+package Perfix_Sum;
 
 // pivotIndexefix Sum & Cumulative Sum Approach : Prefix Sum means precomputing cumulative sums of array elements to quickly answer range sum or difference-related queries.
 
