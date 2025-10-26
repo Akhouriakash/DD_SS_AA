@@ -42,3 +42,6 @@ class EquilibriumPoint {
 //         else
 //             System.out.println("No Equilibrium Point Found");
 //     }
+
+
+
