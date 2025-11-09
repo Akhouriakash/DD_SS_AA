@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Kadane_Algorithm {
 
+    //🧩 Problem: Maximum Subarray Sum (Kadane’s Algorithm)
     
     public static int kadaneAlgorithm(int[] nums) {
         int currentSum = 0;
